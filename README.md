@@ -9,7 +9,7 @@ Moodle平台错题集功能，基于Moodle3.10.1版本
 - 邮箱：1129332567@qq.com
 - Moodle平台技术服务淘宝店：https://shop362395590.taobao.com
 - Moodle交流QQ群：897327167
-- Moodle平台体验：http://52.130.83.237
+- Moodle平台体验：http://47.114.124.77/
 
 
 
